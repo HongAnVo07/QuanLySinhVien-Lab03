@@ -1,0 +1,15 @@
+D:\LAPTRINHWINDOWS\Lab03_QuanLySinhVien\bin\Debug\net10.0\Lab03_QuanLySinhVien.exe
+D:\LAPTRINHWINDOWS\Lab03_QuanLySinhVien\bin\Debug\net10.0\Lab03_QuanLySinhVien.deps.json
+D:\LAPTRINHWINDOWS\Lab03_QuanLySinhVien\bin\Debug\net10.0\Lab03_QuanLySinhVien.runtimeconfig.json
+D:\LAPTRINHWINDOWS\Lab03_QuanLySinhVien\bin\Debug\net10.0\Lab03_QuanLySinhVien.dll
+D:\LAPTRINHWINDOWS\Lab03_QuanLySinhVien\bin\Debug\net10.0\Lab03_QuanLySinhVien.pdb
+D:\LAPTRINHWINDOWS\Lab03_QuanLySinhVien\obj\Debug\net10.0\Lab03_QuanLySinhVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAPTRINHWINDOWS\Lab03_QuanLySinhVien\obj\Debug\net10.0\Lab03_QuanLySinhVien.AssemblyInfoInputs.cache
+D:\LAPTRINHWINDOWS\Lab03_QuanLySinhVien\obj\Debug\net10.0\Lab03_QuanLySinhVien.AssemblyInfo.cs
+D:\LAPTRINHWINDOWS\Lab03_QuanLySinhVien\obj\Debug\net10.0\Lab03_QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\LAPTRINHWINDOWS\Lab03_QuanLySinhVien\obj\Debug\net10.0\Lab03_QuanLySinhVien.dll
+D:\LAPTRINHWINDOWS\Lab03_QuanLySinhVien\obj\Debug\net10.0\refint\Lab03_QuanLySinhVien.dll
+D:\LAPTRINHWINDOWS\Lab03_QuanLySinhVien\obj\Debug\net10.0\Lab03_QuanLySinhVien.pdb
+D:\LAPTRINHWINDOWS\Lab03_QuanLySinhVien\obj\Debug\net10.0\Lab03_QuanLySinhVien.genruntimeconfig.cache
+D:\LAPTRINHWINDOWS\Lab03_QuanLySinhVien\obj\Debug\net10.0\ref\Lab03_QuanLySinhVien.dll
+D:\LAPTRINHWINDOWS\Lab03_QuanLySinhVien\obj\Debug\net10.0\Lab03_Qu.D809C60F.Up2Date
